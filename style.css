@@ -1,0 +1,51 @@
+#x{
+    margin-top: 300px;
+    text-align: center;
+    font-family: "Alkatra";
+    color: black;
+
+
+}
+#y{
+    align-items: center;
+    font-family: "Alkatra";
+    
+}
+#a{
+
+    font-family: "Alkatra";
+}
+#b {
+    border: none;
+  }
+#b .list-group-item {
+    border: none;
+  }
+footer {
+    background-color: #f8f9fa;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .social-icons {
+    list-style: none;
+    display: inline-flex;
+    justify-content: center;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .social-icons li {
+    margin: 0 10px;
+  }
+  
+  .social-icons a {
+    color: #212529;
+    text-decoration: none;
+    font-size: 20px;
+  }
+  
+  .social-icons a:hover {
+    color: #007bff;
+  }
+  
